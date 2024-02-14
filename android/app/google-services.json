@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909888987040",
+    "project_id": "rover-testing",
+    "storage_bucket": "rover-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909888987040:android:bcfa88ed84416423bc0ec5",
+        "android_client_info": {
+          "package_name": "com.rovertaxi.testUser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Msar5uzj5jTJdH6X41Dh3nh9VgqjqlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
